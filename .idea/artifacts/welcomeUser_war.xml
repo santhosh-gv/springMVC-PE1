@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="welcomeUser.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/welcomeUser_war</output-path>
+    <root id="root">
+      <element id="archive" name="welcomeUser.war" />
+    </root>
+  </artifact>
+</component>
